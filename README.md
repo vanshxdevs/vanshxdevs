@@ -11,7 +11,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;An+Engineering+Student;Computer+Science+Engineering+With+AI+In+Focus;Let's+Connect+To+Build+Future.)](https://github.com/vanshgarg-1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;A+Data+Scientist;Computer+Science+Engineering+With+AI+In+Focus;Let's+Connect+To+Build+Future.)](https://github.com/vanshgarg-1)
 
  </p>
 
@@ -82,6 +82,7 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
