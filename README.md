@@ -11,7 +11,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;A+Data+Scientist;Computer+Science+Engineering+With+AI+In+Focus;Let's+Connect+To+Build+Future.)](https://github.com/vanshgarg-1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;Computer+Science+Engineering+With+AI+In+Focus;Let's+Connect+To+Build+Future.)](https://github.com/vanshgarg-1)
 
  </p>
 
@@ -25,8 +25,8 @@
 
 - 👨‍🏭 Currently working in **Machine Learning, Prompt Engineering & Generative AI** <br>
 - 🙌 Open to collaborations in **AI, LLMs & Model Development** <br>
-- 🥅 2026 Goal : **Deploy AI-driven real world solutions & contribute to open source** <br>  
-- 🔗 Connect with me:  🌐 [Portfolio](https://www.thevanshgarg.com)  🐦 [Twitter](https://twitter.com/vanshgarg_1)   💼 [LinkedIn](https://linkedin.com/in/contact-vanshgarg)  
+- 🥅 2026 Goal : **Deploy more AI-driven real world solutions & contribute to open source** <br>  
+- 🔗 Connect with me:  🌐 [Portfolio](https://www.thevanshgarg.com)  🐦 [Twitter](https://twitter.com/vanshxdevs)   💼 [LinkedIn](https://linkedin.com/in/vanshxdevs)  
 
 
 🕵 Take a look at my repositories and let's get in touch!<br>
@@ -72,16 +72,17 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 <!-- ![the-vanshgarg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanshgarg-1&theme=vision-friendly-dark&hide_border=false) -->
 
 <br><br>
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vanshgarg-1?cardType=github&theme=github-dark&preferLogin=false)](https://github.com/vanshgarg-1)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vanshxdevs?cardType=github&theme=github-dark&preferLogin=false)](https://github.com/vanshgarg-1)
 
 <br><br>
 
 <!-- <p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=vanshgarg-1&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p> -->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanshgarg-1&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanshxdevs&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
