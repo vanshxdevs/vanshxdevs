@@ -23,7 +23,7 @@
 
 <!-- ### A Data Scientist & Certified Generative AI Expert -->
 
-- 👨‍🏭 Currently working in **Machine Learning, Prompt Engineering & Generative AI** <br>
+- 👨‍🏭 Currently working in **Machine Learning, Prompt Engineering, Agentic Workflows & Generative AI** <br>
 - 🙌 Open to collaborations in **AI, LLMs & Model Development** <br>
 - 🥅 2026 Goal : **Deploy more AI-driven real world solutions & contribute to open source** <br>  
 - 🔗 Connect with me:  🌐 [Portfolio](https://www.thevanshgarg.com)  🐦 [Twitter](https://twitter.com/vanshxdevs)   💼 [LinkedIn](https://linkedin.com/in/vanshxdevs)  
